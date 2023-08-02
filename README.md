@@ -1,2 +1,2 @@
-# Memories-Maker
-eDiary web application for saving your memories
+Make sure you have the latest version of Python installed.
+Running the app --> main.py
